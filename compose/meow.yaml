@@ -1,0 +1,3 @@
+services:
+  meow:
+    image: ghcr.io/dofi4ka/portainer-gitups-test-code:latest
