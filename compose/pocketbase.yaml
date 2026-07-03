@@ -5,7 +5,7 @@ services:
     image: adrianmusante/pocketbase:latest
     restart: always
     ports:
-      - "10002:8090"
+      - "10004:8090"
     volumes:
       - pocketbase-data:/pocketbase
     environment:
